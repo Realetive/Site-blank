@@ -1,0 +1,31 @@
+{
+  "name": "site-blank",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Realetive/Site-blank",
+  "authors": [
+    "Realetive <realetive@yandex.ru>"
+  ],
+  "description": "Template for a quick start of creating a website",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "Apache-2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "bootstrap-social": "latest",
+    "font-awesome":  "latest",
+    "isotope":  "latest",
+    "magnific-popup":  "latest",
+    "vegas":  "latest"
+  }
+}
